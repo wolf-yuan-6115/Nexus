@@ -1,9 +1,7 @@
-# Example nexus config
-
 [server]
 port = 3000
 
 [config]
-password = "SwagLordNitroUser12345"
-updatePlayerStatusInterval = 5000
-playlistMaxPage = 100
+password = "1wvWmsv5t16NbEwARtIs2sYG"
+updatePlayerStatusInterval = 3000
+playlistMaxPage = 1000
